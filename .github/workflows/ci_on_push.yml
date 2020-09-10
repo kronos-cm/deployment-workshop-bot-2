@@ -22,6 +22,3 @@ jobs:
      run: |
        rasa train --quiet
        rasa test --fail-on-prediction-errors
-:cool:
-2
-
